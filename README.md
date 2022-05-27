@@ -9,6 +9,7 @@ If you have questions or need help feel free to go in contact with me.
 
 # Interested in
 - Softwarequality: cleanCode, paradigm (OOP,DOP,FP), design-patterns, everything
+- Visual Design: simple, clean, reusable
 - Of course game-programming =)
 
 # Projects
