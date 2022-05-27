@@ -1,10 +1,18 @@
 # About me
-Hi, my name is Arthur. You will find my public projects here in gitHub. I used the common principles and patterns to reach a high level of clean code. Feel free to go in contact with me if you have questions or need help.
+Hi, my name is Arthur.
+
+I'm a software developer from Germany.
+
+I use this github profile to share my public projects.
+
+If you have questions or need help feel free to go in contact with me.
 
 # Interested in
-CODE CODE CODE CODE
+- Softwarequality: cleanCode, paradigm (OOP,DOP,FP), design-patterns, everything
+- Of course game-programming =)
 
 # Projects
+Here you will find all of my completed or interessted public projects.
 ## To-Do-List
 ![](https://raw.githubusercontent.com/artkamdev/artkamdev/main/assets/to-do-list-0.png)
 ### Description
